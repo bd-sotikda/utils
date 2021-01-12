@@ -1,4 +1,4 @@
-module github.com/bd-sotikda/utils/V2
+module github.com/bd-sotikda/utils/v3
 
 
 
